@@ -12,7 +12,6 @@ def chistaya_str(morse):
         if ord(element) >= 1072 and ord(element) <= 1103: # ord - метод, возвращающий числовой номер символа в кодировке unicode с помощью utf-8,
             result.append(element) # .append метод списков, добавляющий элемент 
 
-    return result 
     return result
   # Добавим функцию для перевода в азбуку Морзе   
     
