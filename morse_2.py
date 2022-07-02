@@ -13,6 +13,8 @@ def chistaya_str(morse):
             result.append(element) # .append метод списков, добавляющий элемент 
 
     return result 
+    return result
+  # Добавим функцию для перевода в азбуку Морзе   
     
 
 
